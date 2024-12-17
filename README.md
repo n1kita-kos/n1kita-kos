@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 </div>
 
 ---
-
 ### Stats :
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n1kita-kos&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
