@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 
 ---
 ### Stats :
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n1kita-kos&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n1kita-kos&layout=compact&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
 
