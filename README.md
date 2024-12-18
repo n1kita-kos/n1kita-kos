@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=n1kita-kos&theme=shadow-red&hide_border=true&border_radius=3.5&date_format=j%2Fn%5B%2FY%5D&card_width=600&card_height=280)](https://git.io/streak-stats)-->
 ### About Me :
   Hi 👋🏻. I'm a student and I'm interested in learning Python
 ___
@@ -35,8 +36,6 @@ ___
   <dev>
     <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=n1kita-kos&theme=shadow-red&hide_border=true&border_radius=3.5&date_format=j%2Fn%5B%2FY%5D&card_width=500&card_height=280"/>
   </dev>
-  <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=n1kita-kos&theme=shadow-red&hide_border=true&border_radius=3.5&date_format=j%2Fn%5B%2FY%5D&card_width=600&card_height=280)](https://git.io/streak-stats)-->
-<br></br>
 <br></br>
 Bro 🔥: [Artem](https://github.com/Artem-Zborovski)
 
