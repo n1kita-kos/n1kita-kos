@@ -32,7 +32,7 @@ ___
 ___
 ## Stats :
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n1kita-kos&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=n1kita-kos&theme=shadow-red&hide_border=true&border_radius=3.5&date_format=j%2Fn%5B%2FY%5D&card_width=700&card_height=280)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=n1kita-kos&theme=shadow-red&hide_border=true&border_radius=3.5&date_format=j%2Fn%5B%2FY%5D&card_width=600&card_height=280)](https://git.io/streak-stats)
 <br></br>
 <br></br>
 Bro 🔥: [Artem](https://github.com/Artem-Zborovski)
